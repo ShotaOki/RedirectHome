@@ -1,1 +1,1 @@
-"# RedirectHome" 
+# RedirectHome
